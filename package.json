@@ -7,6 +7,8 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "gzip-size": "^6.0.0",
+    "faker": "^5.5.3",
     "vite": "^2.4.3"
   }
 }
